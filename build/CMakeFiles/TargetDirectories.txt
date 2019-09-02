@@ -1,0 +1,3 @@
+/home/shixinliu/REVO/build/CMakeFiles/rebuild_cache.dir
+/home/shixinliu/REVO/build/CMakeFiles/REVO.dir
+/home/shixinliu/REVO/build/CMakeFiles/edit_cache.dir
